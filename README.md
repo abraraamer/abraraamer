@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abraraamer
 - 👀 I’m interested in Joomla, Wordpress, PHP development
 - 🌱 I’m currently learning contributing to Github
-- 💞️ I’m looking to collaborate on Joomla
+- 💞️ I’m looking to collaborate on WordPress
 - 📫 How to reach me ...
 
 <!---
